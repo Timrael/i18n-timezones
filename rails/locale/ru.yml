@@ -151,3 +151,18 @@ ru:
     "Ulaanbaatar": "Улан-Батор"
     "Chatham Is.": "Остров Чатем"
     "Zurich": "Цюрих"
+
+    "Europe/Kirov": "Киров" # +3:00
+    "Europe/Simferopol": "Симферополь" # +3:00
+    "Europe/Astrakhan": "Астрахань" # +4:00
+    "Europe/Saratov": "Саратов" # +4:00
+    "Europe/Ulyanovsk": "Ульяновск" # +4:00
+    "Asia/Omsk": "Омск" # +6:00
+    "Asia/Barnaul": "Барнаул" # +7:00
+    "Asia/Novokuznetsk": "Новокузнецк" # +7:00
+    "Asia/Tomsk": "Томск" # +7:00
+    "Asia/Chita": "Чита" # +9:00
+    "Asia/Khandyga": "Хандыга" # +9:00
+    "Asia/Ust-Nera": "Усть-Нера" # +10:00
+    "Asia/Sakhalin": "Сахалин" # +11:00
+    "Asia/Anadyr": "Анадырь" # +12:00
